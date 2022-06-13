@@ -1,9 +1,33 @@
 # Projeto Unit Tests
-Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
+Este projeto foi feito durante o bloco de Front-End na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
+
+---
+
+# Habilidades
+Neste projeto, verificamos que você é capaz de:
+
+  * Escrever testes unitários para funções utilizando o módulo Jest do NodeJS para verificar o correto funcionamento dessas funções;
+
+  * A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
+
+  * Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+
+---
+
+# Instruções para rodar o Projeto:
+
+1. Clone o repositório
+  * `git clone git@github.com:J-Pster/solara-system.git`
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `cd solar-system`
+
+---
 
 ### Descrição
 
 Consiste em vários testes feitos em Jest para funções feitas em JavaScript.
+
+---
 
 ### Comentários
 - [ ] 1: Fazer a refatoração do código.
@@ -18,7 +42,7 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 [1]: https://www.linkedin.com/in/joaopster/
 [2]: https://api.whatsapp.com/send?phone=5562992765354&text=Ol%C3%A1%2C%20%C3%A9%20o%20Pster%3F%20Venho%20do%20Github.
 
+---
+
 ### Créditos e Avisos Legais
 - As funções na pasta /src/: numbers.js, circle.js, productDetails.js, getCharacter.js foram criadas pela [Trybe](https://www.betrybe.com/), portanto são de direito da mesma.
-
-- Os testes na psata /tests/: average.spec.js, vqv.spec.js, createStudent.spec.js, objPlayground.spec.js, myCounter.spec.js foram criadas pela [Trybe](https://www.betrybe.com/), portanto são de direito da mesma.
