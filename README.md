@@ -17,9 +17,9 @@ Neste projeto, verificamos que você é capaz de:
 # Instruções para rodar o Projeto:
 
 1. Clone o repositório
-  * `git clone git@github.com:J-Pster/solara-system.git`
+  * `git clone git@github.com:J-Pster/unit-tests.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd solar-system`
+    * `cd unit-tests`
 
 ---
 
